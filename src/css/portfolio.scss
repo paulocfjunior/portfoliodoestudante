@@ -1,0 +1,224 @@
+
+
+.slick-next {
+  right: 150px;
+}
+
+.slick-prev {
+  left: 150px;
+}
+
+.table-default {
+  position: relative;
+}
+
+.table-one{
+  position: relative;
+  bottom: -39px;
+  border-collapse: separate;
+  border-spacing: .25em;
+  text-align: center;
+  vertical-align: middle;
+}
+.table-one > thead > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #0025ff, #212598, #1e1f35);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+  color: black;
+  font-size: 20px;
+}
+
+.table-one > tbody > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #616161, #7d7575, #404040);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.table-one > tbody > tr > td
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #4a4a4a, #080707, #403838);
+  text-align: center;
+  border-radius: 8px;
+}
+
+
+.table-two {
+  left: 205px;
+  bottom: 311px;
+  border-collapse: separate;
+  border-spacing: .25em;
+  text-align: center;
+  vertical-align: middle;
+}
+.table-two > thead > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #0025ff, #212598, #1e1f35);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+  color: black;
+  font-size: 20px;
+}
+
+.table-two > tbody > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #616161, #7d7575, #404040);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.table-two > tbody > tr > td
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #4a4a4a, #080707, #403838);
+  text-align: center;
+  border-radius: 8px;
+}
+
+.table-three {
+  left: 380px;
+  bottom: 661px;
+  border-collapse: separate;
+  border-spacing: .25em;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+.table-three > thead > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #0025ff, #212598, #1e1f35);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+  color: black;
+  font-size: 20px;
+}
+
+.table-three > tbody > tr > th
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #616161, #7d7575, #404040);
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.table-three > tbody > tr > td
+{
+  padding: 0.5em;
+  background: radial-gradient(circle, #4a4a4a, #080707, #403838);
+  text-align: center;
+  border-radius: 8px;
+}
+
+.campo-slider {
+  position: relative;
+  bottom: 553px;
+}
+
+.slick-dots {
+  position: unset;
+}
+
+.campo-table {
+  margin-left: 160px;
+  position: relative;
+  top: 120px;
+}
+
+.img-portfolio {
+      display: inline-flex;
+
+}
+
+.img-campo-portfolio {
+
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 0 0 10px 3px rgba(0,0,0, 0.4);
+  overflow: -13px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: 113px;
+  padding-right: -15px;
+  margin-left: 33px;
+  transition: box-shadow 200ms;
+  display: none;
+}
+
+
+.campo-portfolio {
+  position: relative;
+  right: 19%;
+  top: 73px;
+}
+
+
+.img-campo-portfolio .campo-paragrafo {
+  background-color: #ffffffb8;
+  box-shadow: 0 0 10px 2px #bbbbbb;
+  bottom: 0;
+  padding: 10px 15px 30px;
+  /* position: absolute; */
+}
+
+.paragrafo-titulo {
+  font-size: 25px;
+  position: relative;
+  left: 15px;
+
+}
+
+.paragrafo-descricao {
+  position: relative;
+  left: 15px;
+}
+
+.img-campo-portfolio .href-portfolio {
+  background-color: #fff;
+  bottom: 0;
+  color: black;
+  display: inline-flex;
+  height: auto;
+  overflow: hidden;
+  padding: 10px 20px;
+  position: absolute;
+  text-decoration: none;
+  transition: all 150ms;
+  width: 100%;
+}
+
+.img-campo-portfolio .href-portfolio.invisivel {
+  height: 1px;
+  padding: 0 20px;
+
+}
+
+.href-portfolio {
+  cursor: pointer;
+}
+
+.title-portfolio {
+  position: relative;
+  left: 146px;
+}
+
+.img-home {
+      position: relative;
+    right: 11%;
+        top: 10px;
+}

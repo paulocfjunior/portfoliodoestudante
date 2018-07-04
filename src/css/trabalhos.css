@@ -1,0 +1,17 @@
+.job-default {
+  -webkit-column-count: 3;
+  /* Chrome, Safari, Opera */
+  -moz-column-count: 3;
+  /* Firefox */
+  column-count: 3;
+  -webkit-column-rule: 1px solid;
+  /* Chrome, Safari, Opera */
+  -moz-column-rule: 1px solid;
+  /* Firefox */
+  column-rule: 1px solid;
+  padding: 100px; }
+
+.text-font {
+  font-family: 'Fredericka the Great', cursive; }
+
+/*# sourceMappingURL=trabalhos.css.map */

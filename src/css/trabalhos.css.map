@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAY;EACV,oBAAoB,EAAE,CAAC;EAAE,2BAA2B;EACpD,iBAAiB,EAAE,CAAC;EAAE,aAAa;EACnC,YAAY,EAAE,CAAC;EAIf,mBAAmB,EAAE,SAAU;EAAE,2BAA2B;EAC5D,gBAAgB,EAAE,SAAU;EAAE,aAAa;EAC3C,WAAW,EAAE,SAAU;EACvB,OAAO,EAAE,KAAK;;AAIhB,UAAW;EACT,WAAW,EAAE,+BAA+B",
+"sources": ["trabalhos.scss"],
+"names": [],
+"file": "trabalhos.css"
+}

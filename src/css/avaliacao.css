@@ -1,0 +1,31 @@
+.estrelas input[type=radio] {
+  display: none; }
+
+.estrelas label i.fa:before {
+  content: '\f005';
+  color: #FC0; }
+
+.estrelas input[type=radio]:checked ~ label i.fa:before {
+  color: #CCC; }
+
+.estrelas-comentarios .colored {
+  color: #FC0; }
+
+.color-text {
+  color: black; }
+
+.nome-retorno, .mensagem-retorno {
+  background-color: white;
+  border-style: groove;
+  word-break: break-all; }
+
+.formulario {
+  color: white; }
+
+.campo-mensagem, .campo-nome {
+  color: black; }
+
+.dados-retorno {
+  border-style: groove; }
+
+/*# sourceMappingURL=avaliacao.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,4BAA6B;EAC3B,OAAO,EAAE,IAAI;;AAEf,oCAAqC;EACnC,OAAO,EAAE,KAAK",
+"sources": ["solicitacao.scss"],
+"names": [],
+"file": "solicitacao.css"
+}

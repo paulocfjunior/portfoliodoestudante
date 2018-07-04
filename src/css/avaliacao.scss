@@ -1,0 +1,38 @@
+$colored: #FC0;
+$non-colored: #CCC;
+
+.estrelas input[type=radio] {
+  display: none; }
+
+.estrelas label i.fa:before {
+  content: '\f005';
+  color: $colored; }
+
+.estrelas input[type=radio]:checked ~ label i.fa:before {
+  color: $non-colored; }
+
+.estrelas-comentarios {
+  .colored {
+    color: $colored;
+  }
+}
+.color-text {
+  color: black;
+}
+.nome-retorno, .mensagem-retorno {
+  background-color: white;
+  border-style: groove;
+  word-break: break-all; //quebra linha sem quebrar a palavra
+}
+
+.formulario {
+  color: white;
+}
+
+.campo-mensagem, .campo-nome {
+  color:black;
+}
+
+.dados-retorno {
+  border-style: groove;
+}

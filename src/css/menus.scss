@@ -1,0 +1,38 @@
+$color-default: black;
+
+
+.nav, .navbar-nav {
+  text-align: center;
+  font-size: 18px;
+  font-family: "Stencil Std", fantasy;
+  display: flex;
+  align-self: center;
+}
+
+.menus {
+  color: $color-default;
+  padding-left: 10px;
+}
+
+li {
+  display: block;
+}
+
+.fa {
+  font-size: 35px;
+}
+
+.fixar {
+  z-index: 10;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+#menu {
+  display: flex;
+  flex-flow: column;
+  background-color: #222;
+      border-bottom-style: solid;
+    border-width: thin;
+}

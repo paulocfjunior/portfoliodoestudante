@@ -1,0 +1,8 @@
+
+input[value="outro"] + input {
+  display: none;
+}
+input[value="outro"]:checked + input {
+  display: block;
+}
+

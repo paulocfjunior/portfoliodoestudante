@@ -1,0 +1,34 @@
+.text-default {
+  word-wrap: break-word;
+  font-size: medium;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+
+   }
+
+.title-icone {
+  color: black;
+      font-size: 20px; }
+
+.paragrafo-icone {
+  font-size: large; 
+       line-height: 24px;}
+
+.text-capa {
+  font-family: 'Londrina Shadow', cursive; }
+
+.title-default {
+  font-family: 'Bahiana', cursive; 
+   background: black;
+    color: white;
+    text-align: center;
+     
+ }
+
+/*# sourceMappingURL=text.css.map */
+.title-footer {
+      font-family: 'Bahiana', cursive;
+    color: white;
+  
+}
